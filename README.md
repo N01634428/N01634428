@@ -1,10 +1,8 @@
 ## Hi there 👋
 ![Screenshot 2025-01-14 165244](https://github.com/user-attachments/assets/df2be77b-41c9-4573-a799-143b6697314e)
+Web Developer-
 
-
-Vihar Thakakr
-Web Developer
-Currnetly learning at Humber Institue of technology
+Currnetly learning at Humber Institue of technology.
 <!--
 **N01634428/N01634428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
